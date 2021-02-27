@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Hola, hi!
 
-I'm glad you are here. I plan to talk about ...
-Some content.
+I am a software developer, based in Hyderabad, India. 
+Trying to imbibe a habit of learning something new everyday through this path. 
